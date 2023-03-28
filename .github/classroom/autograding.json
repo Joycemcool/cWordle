@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "ASSIGN5 tests",
+      "setup": "",
+      "run": "make test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
