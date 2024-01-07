@@ -7,4 +7,5 @@
 
 //TODO DEFINE FUNCTION PROTOTYPE HERE
 char *wordleGame( char **gameBoard, int maxGuesses, int numOfLetter, char word[],bool *winFlag);
+bool checkRealWord(char inputWord[]);
 #endif //ASSIGN5_WORDLE_H
